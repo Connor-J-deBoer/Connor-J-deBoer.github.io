@@ -1,0 +1,1 @@
+import{_ as e,o,b as s,h as r}from"./index-46353ee4.js";const t={},c=r("h1",null,"Bard is Broke",-1),n=[c];function a(_,d){return o(),s("main",null,n)}const i=e(t,[["render",a]]);export{i as default};

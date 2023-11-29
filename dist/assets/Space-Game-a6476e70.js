@@ -1,0 +1,1 @@
+import{_ as e,o as c,b as a,h as o}from"./index-46353ee4.js";const t={},n=o("h1",null,"Space Game",-1),s=[n];function _(r,l){return c(),a("main",null,s)}const d=e(t,[["render",_]]);export{d as default};
