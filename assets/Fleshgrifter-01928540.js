@@ -1,0 +1,1 @@
+import{_ as e,o as t,d as s,b as o}from"./index-cc757a8a.js";const r={},c=o("h1",null,"Fleshgrifter",-1),n=[c];function _(a,l){return t(),s("main",null,n)}const i=e(r,[["render",_]]);export{i as default};
