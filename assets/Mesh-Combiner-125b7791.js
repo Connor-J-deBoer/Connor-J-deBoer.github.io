@@ -1,4 +1,4 @@
-import{P as e}from"./project-7e6422d4.js";import{o as t,c as s}from"./index-0398f881.js";const l={__name:"Mesh-Combiner",setup(i){return(n,o)=>(t(),s(e,{"project-pictures":["/MeshCombinerMedia/CombineSubMeshes.png","/MeshCombinerMedia/SelectionExample.png","/MeshCombinerMedia/MeshPreview.png","/MeshCombinerMedia/MeshCombinerWindow.png"],"project-links":{GitHub:"https://github.com/Connor-J-deBoer/MeshCombiner"},"code-snippets":{"Combine Mesh ▼":`public void CombineMesh()
+import{P as e}from"./project-6f21fa08.js";import{o as t,c as s}from"./index-48873874.js";const l={__name:"Mesh-Combiner",setup(i){return(n,o)=>(t(),s(e,{"project-pictures":["/MeshCombinerMedia/CombineSubMeshes.png","/MeshCombinerMedia/SelectionExample.png","/MeshCombinerMedia/MeshPreview.png","/MeshCombinerMedia/MeshCombinerWindow.png"],"project-links":{GitHub:"https://github.com/Connor-J-deBoer/MeshCombiner"},"code-snippets":{"Combine Mesh ▼":`public void CombineMesh()
 {
     _combinedMesh = new Mesh();
     _combinedMesh.indexFormat = UnityEngine.Rendering.IndexFormat.UInt32;

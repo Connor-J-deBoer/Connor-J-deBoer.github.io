@@ -1,4 +1,4 @@
-import{P as e}from"./project-7e6422d4.js";import{o as t,c as o}from"./index-0398f881.js";const l={__name:"Easy-Remote-Config",setup(r){return(i,a)=>(t(),o(e,{"project-pictures":["/EasyRemoteConfigMedia/EasyRemoteConfigDemo.mp4","/EasyRemoteConfigMedia/EasyRemoteConfigUpdateDemo.mp4"],"project-links":{GitHub:"https://github.com/Connor-J-deBoer/EasyRemoteConfig.git"},"code-snippets":{"Attribute Drawer Snippet ▼":`namespace Connor.RemoteConfigHelper
+import{P as e}from"./project-6f21fa08.js";import{o as t,c as o}from"./index-48873874.js";const l={__name:"Easy-Remote-Config",setup(r){return(i,a)=>(t(),o(e,{"project-pictures":["/EasyRemoteConfigMedia/EasyRemoteConfigDemo.mp4","/EasyRemoteConfigMedia/EasyRemoteConfigUpdateDemo.mp4"],"project-links":{GitHub:"https://github.com/Connor-J-deBoer/EasyRemoteConfig.git"},"code-snippets":{"Attribute Drawer Snippet ▼":`namespace Connor.RemoteConfigHelper
 {
     [CustomPropertyDrawer(typeof(RemoteFieldAttribute))]
     public class RemoteFieldAttributeDrawer : PropertyDrawer
